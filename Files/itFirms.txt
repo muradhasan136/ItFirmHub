@@ -1,0 +1,9 @@
+2; Infomill;Sheikh Selim;1998;500;300;5;Mobile App Development;10;House 10, Road 12, Banani, Dhaka-1213;880 2 8826470;info@gmail.com
+3;TechnoAid;Dr. Md. Shahjahan;2003;200;250;0;National;20;House 12, Road 15, Banani, Dhaka-1213; +880 2 8816470;@gmail.com
+4; iSoft Systems; Dr. Md. Ruhul Amin;2005;150;160;0;National;25; House 10, Road 10, Banani, Dhaka-1213; +880 2 8816470;@gmail.com
+5; Cloud9 Technologies; Dr. Md. Akhtaruzzaman;2010;100;110;0;National;30;House 12, Road 12, Banani, Dhaka-1213; +880 2 8814267;@gmail.com
+6; Proton IT Solutions; Dr. Md. Selim Reza;2007;200;150;0;National;16;House 10, Road 10, Banani, Dhaka-1213;+880 2 8815647;@gmail.com
+7;  TechnoSoft; Dr. Md. Mahbubur Rahman;2008;150;100;6;National;24;House 12, Road 12, Banani, Dhaka-1213;+880 2 8824761;@gmail.com
+8;brain Station 23;Raisul Kabir;2006;2000;700;0;National;Top10;8th Floor, 2 Bir Uttam AK Khandakar Road, Mohakhali C/A, Dhaka 1212, Bangladesh;+88-02-222290728;@gmail.com
+9; DataSoft Systems Bangladesh Ltd.Employ:500 ;Mahbub Zaman;1998;350;500;0;National;Top20;Rupayan  Shelford, Mirpur Road, Dhaka, Dhaka Division 1207 Bangladesh.;880-96-09667788;@gmail.com
+10;REVE Systems; M. Rezaul Hassan;2003;500;450;15;National;Top30;•  Established Date: 2003 •  Head Office Address: REVE Center, Plot 94, Gulshan Avenue, Dhaka 1212, Bangladesh ;+880-961-300-9198;@gmail.com
